@@ -1,0 +1,18 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.852
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "PipeWrapper", "PipeWrapper\PipeWrapper.shproj", "{A181A73C-3493-4BB7-B559-6552875B3942}"
+EndProject
+Global
+	GlobalSection(SharedMSBuildProjectFiles) = preSolution
+		PipeWrapper\PipeWrapper.projitems*{a181a73c-3493-4bb7-b559-6552875b3942}*SharedItemsImports = 13
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C4DD1A42-D33E-4541-AFB9-DF493A8E95E7}
+	EndGlobalSection
+EndGlobal

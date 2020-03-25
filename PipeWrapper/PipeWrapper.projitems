@@ -9,5 +9,13 @@
     <Import_RootNamespace>PipeWrapper</Import_RootNamespace>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="$(MSBuildThisFileDirectory)Packet\PipePacketJob.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Packet\PipePacketStatus.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)PipeaBaseForClient.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)PipeBase.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)PipeBaseEventArgs.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)PipeBaseForServer.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)PipeClient.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)PipeServer.cs" />
   </ItemGroup>
 </Project>
